@@ -4,8 +4,6 @@ Sobre mim
 
 🎓 Estudante de Sistemas de Informação na Universidade Federal do Acre (UFAC)
 
-💻 Atualmente realizando o curso WebAcademy para me tornar Web Full Stack Developer
-
 Contato
 
 📧 Email: mariaclaradesb@gmail.com
